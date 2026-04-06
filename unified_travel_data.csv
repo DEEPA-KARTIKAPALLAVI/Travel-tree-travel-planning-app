@@ -1,0 +1,181 @@
+country,city,item,category,source_file,tier,price
+India,Andhra Pradesh,Tirupati Laddu,Sweet,product_price.csv,price_1,102.0
+India,Andhra Pradesh,Kondapalli Toys,Handicraft,product_price.csv,price_1,2950.0
+India,Andhra Pradesh,Machilipatnam Kalamkari,Textile,product_price.csv,price_1,2900.0
+India,Andhra Pradesh,Guntur Chilli,Spice,product_price.csv,price_1,580.0
+India,Arunachal Pradesh,Arunachal Orange,Fruit,product_price.csv,price_1,118.0
+India,Arunachal Pradesh,Idu Mishmi Textile,Textile,product_price.csv,price_1,7800.0
+India,Assam,Assam Tea,Beverage,product_price.csv,price_1,1180.0
+India,Assam,Muga Silk Saree,Textile,product_price.csv,price_1,78000.0
+India,Assam,Joha Rice,Agriculture,product_price.csv,price_1,240.0
+India,Bihar,Madhubani Painting,Handicraft,product_price.csv,price_1,19500.0
+India,Bihar,Bhagalpuri Silk,Textile,product_price.csv,price_1,11500.0
+India,Bihar,Shahi Litchi,Fruit,product_price.csv,price_1,240.0
+India,Chhattisgarh,Bastar Dhokra Craft,Handicraft,product_price.csv,price_1,14500.0
+India,Chhattisgarh,Jeeraphool Rice,Agriculture,product_price.csv,price_1,290.0
+India,Goa,Goa Feni,Beverage,product_price.csv,price_1,1900.0
+India,Goa,Bebinca,Dessert,product_price.csv,price_1,680.0
+India,Gujarat,Gir Kesar Mango,Fruit,product_price.csv,price_1,380.0
+India,Gujarat,Patan Patola Saree,Textile,product_price.csv,price_1,490000.0
+India,Haryana,Basmati Rice,Agriculture,product_price.csv,price_1,240.0
+India,Himachal Pradesh,Kangra Tea,Beverage,product_price.csv,price_1,880.0
+India,Himachal Pradesh,Kullu Shawl,Textile,product_price.csv,price_1,5800.0
+India,Jharkhand,Sohrai Painting,Handicraft,product_price.csv,price_1,4800.0
+India,Jharkhand,Jadopatia Painting,Handicraft,product_price.csv,price_1,2900.0
+India,Karnataka,Mysore Silk Saree,Textile,product_price.csv,price_1,58000.0
+India,Karnataka,Channapatna Toys,Handicraft,product_price.csv,price_1,1900.0
+India,Karnataka,Dharwad Pedha,Sweet,product_price.csv,price_1,580.0
+India,Karnataka,Coorg Coffee,Beverage,product_price.csv,price_1,1150.0
+India,Kerala,Aranmula Kannadi,Handicraft,product_price.csv,price_1,48000.0
+India,Kerala,Cardamom,Spice,product_price.csv,price_1,2900.0
+India,Madhya Pradesh,Chanderi Saree,Textile,product_price.csv,price_1,14500.0
+India,Madhya Pradesh,Maheshwari Saree,Textile,product_price.csv,price_1,9500.0
+India,Madhya Pradesh,Kadaknath Chicken,Meat,product_price.csv,price_1,1150.0
+India,Maharashtra,Alphonso Mango,Fruit,product_price.csv,price_1,480.0
+India,Maharashtra,Kolhapuri Chappal,Footwear,product_price.csv,price_1,2800.0
+India,Maharashtra,Nagpur Orange,Fruit,product_price.csv,price_1,145.0
+India,Manipur,Black Rice,Agriculture,product_price.csv,price_1,480.0
+India,Manipur,Moirang Phee,Textile,product_price.csv,price_1,9500.0
+India,Meghalaya,Lakadong Turmeric,Spice,product_price.csv,price_1,780.0
+India,Mizoram,Puanchei,Textile,product_price.csv,price_1,7800.0
+India,Nagaland,Naga Mircha,Spice,product_price.csv,price_1,780.0
+India,Odisha,Rasagola,Sweet,product_price.csv,price_1,480.0
+India,Odisha,Pattachitra,Handicraft,product_price.csv,price_1,19500.0
+India,Punjab,Phulkari,Textile,product_price.csv,price_1,9800.0
+India,Rajasthan,Blue Pottery,Handicraft,product_price.csv,price_1,4800.0
+India,Rajasthan,Kota Doria Saree,Textile,product_price.csv,price_1,7800.0
+India,Rajasthan,Bikaneri Bhujia,Snack,product_price.csv,price_1,480.0
+India,Sikkim,Temi Tea,Beverage,product_price.csv,price_1,2400.0
+India,Tamil Nadu,Kanchipuram Silk Saree,Textile,product_price.csv,price_1,68000.0
+India,Tamil Nadu,Dindigul Lock,Handicraft,product_price.csv,price_1,1450.0
+India,Tamil Nadu,Palkova,Sweet,product_price.csv,price_1,680.0
+India,Telangana,Pochampally Ikat,Textile,product_price.csv,price_1,19500.0
+India,Telangana,Haleem,Food,product_price.csv,price_1,480.0
+India,Tripura,Pineapple,Fruit,product_price.csv,price_1,190.0
+India,Uttar Pradesh,Banarasi Saree,Textile,product_price.csv,price_1,95000.0
+India,Uttar Pradesh,Chikankari,Textile,product_price.csv,price_1,9500.0
+India,Uttar Pradesh,Agra Petha,Sweet,product_price.csv,price_1,380.0
+India,Uttarakhand,Tejpatta,Spice,product_price.csv,price_1,580.0
+India,West Bengal,Darjeeling Tea,Beverage,product_price.csv,price_1,3800.0
+India,West Bengal,Baluchari Saree,Textile,product_price.csv,price_1,24000.0
+India,West Bengal,Rasogolla,Sweet,product_price.csv,price_1,380.0
+India,Andhra Pradesh,Tirupati Laddu,Sweet,product_price.csv,price_2,74.0
+India,Andhra Pradesh,Kondapalli Toys,Handicraft,product_price.csv,price_2,1480.0
+India,Andhra Pradesh,Machilipatnam Kalamkari,Textile,product_price.csv,price_2,1600.0
+India,Andhra Pradesh,Guntur Chilli,Spice,product_price.csv,price_2,430.0
+India,Arunachal Pradesh,Arunachal Orange,Fruit,product_price.csv,price_2,92.0
+India,Arunachal Pradesh,Idu Mishmi Textile,Textile,product_price.csv,price_2,4800.0
+India,Assam,Assam Tea,Beverage,product_price.csv,price_2,790.0
+India,Assam,Muga Silk Saree,Textile,product_price.csv,price_2,42000.0
+India,Assam,Joha Rice,Agriculture,product_price.csv,price_2,200.0
+India,Bihar,Madhubani Painting,Handicraft,product_price.csv,price_2,8800.0
+India,Bihar,Bhagalpuri Silk,Textile,product_price.csv,price_2,7800.0
+India,Bihar,Shahi Litchi,Fruit,product_price.csv,price_2,185.0
+India,Chhattisgarh,Bastar Dhokra Craft,Handicraft,product_price.csv,price_2,6500.0
+India,Chhattisgarh,Jeeraphool Rice,Agriculture,product_price.csv,price_2,230.0
+India,Goa,Goa Feni,Beverage,product_price.csv,price_2,1300.0
+India,Goa,Bebinca,Dessert,product_price.csv,price_2,520.0
+India,Gujarat,Gir Kesar Mango,Fruit,product_price.csv,price_2,280.0
+India,Gujarat,Patan Patola Saree,Textile,product_price.csv,price_2,290000.0
+India,Haryana,Basmati Rice,Agriculture,product_price.csv,price_2,180.0
+India,Himachal Pradesh,Kangra Tea,Beverage,product_price.csv,price_2,600.0
+India,Himachal Pradesh,Kullu Shawl,Textile,product_price.csv,price_2,3600.0
+India,Jharkhand,Sohrai Painting,Handicraft,product_price.csv,price_2,2600.0
+India,Jharkhand,Jadopatia Painting,Handicraft,product_price.csv,price_2,1700.0
+India,Karnataka,Mysore Silk Saree,Textile,product_price.csv,price_2,34000.0
+India,Karnataka,Channapatna Toys,Handicraft,product_price.csv,price_2,900.0
+India,Karnataka,Dharwad Pedha,Sweet,product_price.csv,price_2,500.0
+India,Karnataka,Coorg Coffee,Beverage,product_price.csv,price_2,850.0
+India,Kerala,Aranmula Kannadi,Handicraft,product_price.csv,price_2,16000.0
+India,Kerala,Cardamom,Spice,product_price.csv,price_2,2300.0
+India,Madhya Pradesh,Chanderi Saree,Textile,product_price.csv,price_2,8500.0
+India,Madhya Pradesh,Maheshwari Saree,Textile,product_price.csv,price_2,6000.0
+India,Madhya Pradesh,Kadaknath Chicken,Meat,product_price.csv,price_2,920.0
+India,Maharashtra,Alphonso Mango,Fruit,product_price.csv,price_2,330.0
+India,Maharashtra,Kolhapuri Chappal,Footwear,product_price.csv,price_2,1600.0
+India,Maharashtra,Nagpur Orange,Fruit,product_price.csv,price_2,115.0
+India,Manipur,Black Rice,Agriculture,product_price.csv,price_2,360.0
+India,Manipur,Moirang Phee,Textile,product_price.csv,price_2,6500.0
+India,Meghalaya,Lakadong Turmeric,Spice,product_price.csv,price_2,620.0
+India,Mizoram,Puanchei,Textile,product_price.csv,price_2,4800.0
+India,Nagaland,Naga Mircha,Spice,product_price.csv,price_2,620.0
+India,Odisha,Rasagola,Sweet,product_price.csv,price_2,380.0
+India,Odisha,Pattachitra,Handicraft,product_price.csv,price_2,8800.0
+India,Punjab,Phulkari,Textile,product_price.csv,price_2,6200.0
+India,Rajasthan,Blue Pottery,Handicraft,product_price.csv,price_2,2400.0
+India,Rajasthan,Kota Doria Saree,Textile,product_price.csv,price_2,5200.0
+India,Rajasthan,Bikaneri Bhujia,Snack,product_price.csv,price_2,380.0
+India,Sikkim,Temi Tea,Beverage,product_price.csv,price_2,1600.0
+India,Tamil Nadu,Kanchipuram Silk Saree,Textile,product_price.csv,price_2,34000.0
+India,Tamil Nadu,Dindigul Lock,Handicraft,product_price.csv,price_2,850.0
+India,Tamil Nadu,Palkova,Sweet,product_price.csv,price_2,560.0
+India,Telangana,Pochampally Ikat,Textile,product_price.csv,price_2,13500.0
+India,Telangana,Haleem,Food,product_price.csv,price_2,350.0
+India,Tripura,Pineapple,Fruit,product_price.csv,price_2,140.0
+India,Uttar Pradesh,Banarasi Saree,Textile,product_price.csv,price_2,43000.0
+India,Uttar Pradesh,Chikankari,Textile,product_price.csv,price_2,5500.0
+India,Uttar Pradesh,Agra Petha,Sweet,product_price.csv,price_2,300.0
+India,Uttarakhand,Tejpatta,Spice,product_price.csv,price_2,420.0
+India,West Bengal,Darjeeling Tea,Beverage,product_price.csv,price_2,2100.0
+India,West Bengal,Baluchari Saree,Textile,product_price.csv,price_2,14000.0
+India,West Bengal,Rasogolla,Sweet,product_price.csv,price_2,300.0
+India,Andhra Pradesh,Tirupati Laddu,Sweet,product_price.csv,price_3,51.0
+India,Andhra Pradesh,Kondapalli Toys,Handicraft,product_price.csv,price_3,680.0
+India,Andhra Pradesh,Machilipatnam Kalamkari,Textile,product_price.csv,price_3,850.0
+India,Andhra Pradesh,Guntur Chilli,Spice,product_price.csv,price_3,290.0
+India,Arunachal Pradesh,Arunachal Orange,Fruit,product_price.csv,price_3,62.0
+India,Arunachal Pradesh,Idu Mishmi Textile,Textile,product_price.csv,price_3,2800.0
+India,Assam,Assam Tea,Beverage,product_price.csv,price_3,510.0
+India,Assam,Muga Silk Saree,Textile,product_price.csv,price_3,18000.0
+India,Assam,Joha Rice,Agriculture,product_price.csv,price_3,150.0
+India,Bihar,Madhubani Painting,Handicraft,product_price.csv,price_3,2400.0
+India,Bihar,Bhagalpuri Silk,Textile,product_price.csv,price_3,4200.0
+India,Bihar,Shahi Litchi,Fruit,product_price.csv,price_3,130.0
+India,Chhattisgarh,Bastar Dhokra Craft,Handicraft,product_price.csv,price_3,2400.0
+India,Chhattisgarh,Jeeraphool Rice,Agriculture,product_price.csv,price_3,180.0
+India,Goa,Goa Feni,Beverage,product_price.csv,price_3,700.0
+India,Goa,Bebinca,Dessert,product_price.csv,price_3,380.0
+India,Gujarat,Gir Kesar Mango,Fruit,product_price.csv,price_3,180.0
+India,Gujarat,Patan Patola Saree,Textile,product_price.csv,price_3,140000.0
+India,Haryana,Basmati Rice,Agriculture,product_price.csv,price_3,130.0
+India,Himachal Pradesh,Kangra Tea,Beverage,product_price.csv,price_3,380.0
+India,Himachal Pradesh,Kullu Shawl,Textile,product_price.csv,price_3,1800.0
+India,Jharkhand,Sohrai Painting,Handicraft,product_price.csv,price_3,900.0
+India,Jharkhand,Jadopatia Painting,Handicraft,product_price.csv,price_3,800.0
+India,Karnataka,Mysore Silk Saree,Textile,product_price.csv,price_3,17500.0
+India,Karnataka,Channapatna Toys,Handicraft,product_price.csv,price_3,350.0
+India,Karnataka,Dharwad Pedha,Sweet,product_price.csv,price_3,380.0
+India,Karnataka,Coorg Coffee,Beverage,product_price.csv,price_3,600.0
+India,Kerala,Aranmula Kannadi,Handicraft,product_price.csv,price_3,6500.0
+India,Kerala,Cardamom,Spice,product_price.csv,price_3,1550.0
+India,Madhya Pradesh,Chanderi Saree,Textile,product_price.csv,price_3,3200.0
+India,Madhya Pradesh,Maheshwari Saree,Textile,product_price.csv,price_3,3200.0
+India,Madhya Pradesh,Kadaknath Chicken,Meat,product_price.csv,price_3,780.0
+India,Maharashtra,Alphonso Mango,Fruit,product_price.csv,price_3,190.0
+India,Maharashtra,Kolhapuri Chappal,Footwear,product_price.csv,price_3,800.0
+India,Maharashtra,Nagpur Orange,Fruit,product_price.csv,price_3,75.0
+India,Manipur,Black Rice,Agriculture,product_price.csv,price_3,260.0
+India,Manipur,Moirang Phee,Textile,product_price.csv,price_3,3800.0
+India,Meghalaya,Lakadong Turmeric,Spice,product_price.csv,price_3,420.0
+India,Mizoram,Puanchei,Textile,product_price.csv,price_3,2600.0
+India,Nagaland,Naga Mircha,Spice,product_price.csv,price_3,380.0
+India,Odisha,Rasagola,Sweet,product_price.csv,price_3,270.0
+India,Odisha,Pattachitra,Handicraft,product_price.csv,price_3,2800.0
+India,Punjab,Phulkari,Textile,product_price.csv,price_3,2800.0
+India,Rajasthan,Blue Pottery,Handicraft,product_price.csv,price_3,750.0
+India,Rajasthan,Kota Doria Saree,Textile,product_price.csv,price_3,2800.0
+India,Rajasthan,Bikaneri Bhujia,Snack,product_price.csv,price_3,260.0
+India,Sikkim,Temi Tea,Beverage,product_price.csv,price_3,950.0
+India,Tamil Nadu,Kanchipuram Silk Saree,Textile,product_price.csv,price_3,11500.0
+India,Tamil Nadu,Dindigul Lock,Handicraft,product_price.csv,price_3,400.0
+India,Tamil Nadu,Palkova,Sweet,product_price.csv,price_3,420.0
+India,Telangana,Pochampally Ikat,Textile,product_price.csv,price_3,5800.0
+India,Telangana,Haleem,Food,product_price.csv,price_3,250.0
+India,Tripura,Pineapple,Fruit,product_price.csv,price_3,95.0
+India,Uttar Pradesh,Banarasi Saree,Textile,product_price.csv,price_3,11500.0
+India,Uttar Pradesh,Chikankari,Textile,product_price.csv,price_3,1800.0
+India,Uttar Pradesh,Agra Petha,Sweet,product_price.csv,price_3,220.0
+India,Uttarakhand,Tejpatta,Spice,product_price.csv,price_3,260.0
+India,West Bengal,Darjeeling Tea,Beverage,product_price.csv,price_3,1100.0
+India,West Bengal,Baluchari Saree,Textile,product_price.csv,price_3,7000.0
+India,West Bengal,Rasogolla,Sweet,product_price.csv,price_3,220.0
